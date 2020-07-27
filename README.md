@@ -61,7 +61,7 @@ const [value, setValue] = useState(); // Give these better names, and decide whe
 
 ### Task 2b: Exit Ticket
 
-Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/R4yNg7CrXix4qryxQ/wrFc7AbwWfnACu).
+Once you begin, you will have 15 minutes to answer the questions [here](https://app0.codesignal.com/public-test/R4yNg7CrXix4qryxQ/wrFc7AbwWfnACu).
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability without using external references.
 
